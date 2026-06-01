@@ -30,7 +30,7 @@ Most TPMs talk about AI. I ship it — real skills, clean playbooks, tested setu
 
 ### About me
 
-VP & Lead Technical Program Manager with 25 years in financial services. Engineering-trained, still hands-on — I prototype with LLMs and agents, script in Python, and turn frontier tooling into repeatable program practice.
+Lead Technical Program Manager with 25 years in financial services. Engineering-trained, still hands-on — I prototype with LLMs and agents, script in Python, and turn frontier tooling into repeatable program practice.
 
 ### Toolbox
 
