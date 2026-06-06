@@ -1,52 +1,35 @@
-<h1 align="center">Gayatri Swaminathan</h1>
+# Hi, I'm Gayatri 👋
 
-<p align="center">
-  <b>Lead Technical Program Manager</b> · I build the AI tooling I run my programs on
-</p>
+I build agentic AI tools and lead AI programs that get thousands of engineers building.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gayatri-swaminathan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:g3d.swaminathan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+Most of my work is hands-on: real prototypes, shipped apps, and AI programs that move adoption, not slideware. By day I'm an **Executive Director leading AI programs at JPMorgan Chase**. Outside that, I build in the open.
 
----
+## What I build
 
-Most TPMs talk about AI. I ship it — real skills, clean playbooks, tested setups that program managers can run today.
+- 🤖 **Agentic AI tools**: AI that takes action, with multi-step flows, MCP tool connections, and careful prompting
+- 🧰 **Ready-to-use apps**: self-contained, browser-first, deployable in minutes
+- ⚙️ **Developer enablement**: skills, agents, and commands others can clone and run
+- 🏗️ **AI programs at scale**: enablement, governance, and adoption for large engineering orgs
 
-🚀 I build **[TPM OS](https://github.com/gayatriswaminathan/tpm-os)** — open-source AI skills for the TPM craft. Clone, customize, run.
+## Selected projects
 
-### What I work on
+- 🧰 **[TPM OS](https://github.com/gayatriswaminathan/tpm-os)**: open-source, model-agnostic AI skills that automate the TPM craft (status updates, RAID logs, PRDs, and more). Built by a working TPM, for working TPMs.
+- 🤖 **[TPM Agent Team](https://github.com/gayatriswaminathan/tpm-agent-team)**: "a software company in a folder" for Claude Code. 23 role-based subagents plus a build-pipeline command that takes a spec to a shipped product through hard quality gates.
+- ⚡ **[AgentForge](https://github.com/gayatriswaminathan/agent-forge)**: describe a task in plain English and get a ready-to-ship agent, plus a downloadable AGENTS.md, Claude Code subagent, and JSON manifest. A single self-contained HTML file, built by an agent team and hardened by a review panel.
 
-| | |
-|---|---|
-| 🤖 **Agentic workflows** | Claude · Copilot · MCP applied to real program work |
-| 🧭 **Program governance** | OKR frameworks · steering models · maturity assessments |
-| 🚪 **Intake & triage** | single-front-door platforms · AI-assisted routing |
-| 🛡️ **Risk & stability** | RAID · risk scorecards · CTO-level dashboards |
+## What I'm working on now
 
-### About me
+- Leading **AI Garage Days**, a firm-wide weekly AI enablement program I created from scratch
+- Running the **Agentic AI Cohort for TPMs**, training technical program managers on agents, prompt engineering, and MCP
+- Building **Clearinghouse**, a unified, AI-assisted intake platform across Consumer & Community Banking
 
-Lead Technical Program Manager with 25 years in financial services. Engineering-trained, still hands-on — I prototype with LLMs and agents, script in Python, and turn frontier tooling into repeatable program practice.
+## About me
 
-### Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-1F6FEB?style=flat&logo=modelcontextprotocol&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
-</p>
-
-### Angel investing
-
-🌱 Backing early-stage founders building at the intersection of **AI and the future of work** — agents, developer productivity, and program/PM tooling. Typical cheque: **$25–50k**. Building something in this space? Let's talk.
+- 🛠️ Engineering-trained (dual B.E.) and still in the code: Python, JS, Claude Code, Cursor, MCP
+- ✍️ I write about building with agentic AI on Substack: **[Notes by GS](https://notesbygs.substack.com)**
+- 🌐 25 years across JPMorgan Chase, Goldman Sachs, and National Bank of Australia
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/gayatri-swaminathan) or by [email](mailto:g3d.swaminathan@gmail.com)
 
 ---
 
-<p align="center"><i>Experimenting with agentic workflows too? Let's compare notes.</i></p>
+*Building what's next in AI agents and developer enablement. Always happy to compare notes with other builders.*
