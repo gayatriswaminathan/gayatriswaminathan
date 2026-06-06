@@ -1,8 +1,20 @@
 # Hi, I'm Gayatri 👋
 
+### AI Product & Program Leader · Builder of agentic AI tools
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatri-swaminathan)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://notesbygs.substack.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g3d.swaminathan@gmail.com)
+
 I build agentic AI tools and lead AI programs that get thousands of engineers building.
 
 Most of my work is hands-on: real prototypes, shipped apps, and AI programs that move adoption, not slideware. By day I'm an **Executive Director leading AI programs at JPMorgan Chase**. Outside that, I build in the open.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 ## What I build
 
