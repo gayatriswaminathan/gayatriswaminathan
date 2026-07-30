@@ -8,7 +8,7 @@
 
 I build agentic AI tools and lead AI programs that get thousands of engineers building.
 
-Most of my work is hands-on: real prototypes, shipped apps, and AI programs that move adoption, not slideware. By day I'm an **Executive Director leading AI programs at JPMorgan Chase**. Outside that, I build in the open.
+Most of my work is hands-on: real prototypes, shipped apps, and AI programs that move adoption, not slideware. By day I'm an **Executive  leading AI programs at JPMorgan Chase**. Outside that, I build in the open.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
